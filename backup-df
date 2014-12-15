@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "df" "$@" | sftp uO9999@uO9999.your-backup.de
