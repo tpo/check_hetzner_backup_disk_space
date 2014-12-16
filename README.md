@@ -1,4 +1,4 @@
-check-hetzner-backup-disk-space
+check_hetzner_backup_disk_space
 ===============================
 
 This is a check for Nagios/Icinga to report back remaining (free) disk space on the backup service that Hetzner is providing.
