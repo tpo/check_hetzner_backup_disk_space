@@ -18,7 +18,7 @@ help() {
 }
 
 status_and_exit() {
-  echo "$1: Hetzner backup is ${used}% used"
+  echo "$1: Hetzner backup is ${used}% used | used=${used}"
   exit $2
 }
 
